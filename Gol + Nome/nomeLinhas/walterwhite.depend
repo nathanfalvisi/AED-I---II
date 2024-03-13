@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1692629998 source:c:\users\1351579\documents\walterwhite\main.cpp
+	<GL/freeglut.h>
+	<iostream>
+
+1426360528 c:\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1426360528 c:\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426360528 c:\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1693235572 source:c:\users\1351579\downloads\walterwhite\walterwhite\main.cpp
+	<GL/freeglut.h>
+	<iostream>
+
+1693835379 source:c:\users\1351579\downloads\teste2\teste2\walterwhite\main.cpp
+	<GL/freeglut.h>
+	<iostream>
+
+1693838974 source:c:\users\1351579\downloads\04-09-23\28-08-23\walterwhite\main.cpp
+	<GL/freeglut.h>
+	<iostream>
+
+1694374251 source:c:\users\natha\documents\walterwhite\main.cpp
+	<GL/freeglut.h>
+	<iostream>
+
+1695080828 source:c:\users\natha\documents\trabalho 1\main.cpp
+	<GL/freeglut.h>
+	<iostream>
+
+1695080830 source:c:\users\natha\documents\faculdade\trabson2\nomelinhas\main.cpp
+	<GL/freeglut.h>
+	<iostream>
+
