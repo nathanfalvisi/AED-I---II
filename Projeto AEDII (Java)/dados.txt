@@ -1,0 +1,19 @@
+Palmeiras; Allianz Parque; 26/08/1914; Sao Paulo; SP; Brasil;
+
+Sao Paulo; Morumbi; 25/01/1930; Sao Paulo; SP; Brasil;
+
+Corinthians; Neo Quimica Arena; 01/09/1910; Sao Paulo; SP; Brasil;
+
+Santos; Vila Belmiro; 14/04/1912; Santos; SP; Brasil;
+
+Flamengo; Maracana; 15/09/1895; Rio de Janeiro; RJ; Brasil;
+
+Fluminense; Maracana;  21/07/1902; Rio de Janeiro; RJ; Brasil;
+
+Vasco; Sao Januario; 21/08/1898; Rio de Janeiro; RJ; Brasil;
+
+Botafogo; Nilton Santos; 01/07/1894; Rio de Janeiro; RJ; Brasil;
+
+Atletico Mineiro; Arena MRV; 25/03/1908; Minas Gerais; MG; Brasil;
+
+Cruzeiro; Mineirao; 02/01/1921; Minas Gerais; MG; Brasil;
